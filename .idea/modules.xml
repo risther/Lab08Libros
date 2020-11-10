@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab08AsyncTaskHttpUrlConnection.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab08AsyncTaskHttpUrlConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab08AsyncTaskHttpUrlConnection.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab08AsyncTaskHttpUrlConnection.app.iml" />
+    </modules>
+  </component>
+</project>

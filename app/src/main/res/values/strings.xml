@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Autores</string>
+
+    <string name="inputHint">Título del Libro</string>
+    <string name="searchBook">Search</string>
+    <string name="title">Titulo</string>
+    <string name="author">"Autor(es): "</string>
+    <string name="publisher">"Editorial: "</string>
+    <string name="price">S/</string>
+    <string name="publishedDate">"Publicado: "</string>
+    <string name="more">.....</string>
+    <string name="titleListBooks">Lista de Libros</string>
+    <string name="onlyPurchase">Disponibles</string>
+    <string name="mainTitle">Seatch</string>
+    <string name="allBooks"></string>
+    <string name="quantityBooks">""</string>
+    <string name="books">" libros"</string>
+    <string name="book">" libro"</string>
+    <string name="language">Idioma</string>
+    <string name="errorBookName">Llene campo</string>
+    <string name="seeInfo">....</string>
+    <string name="notForSale">No existe</string>
+    <string name="anyResult">Null</string>
+    <string name="withoutDescription">-</string>
+    <string-array name="languages">
+        <item>Idioma</item>
+        <item>Cualquiera</item>
+        <item>Español</item>
+        <item>Ingles</item>
+    </string-array>
+</resources>
